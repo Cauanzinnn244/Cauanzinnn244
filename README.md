@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🥇
 
-<!--
-**Cauanzinnn244/Cauanzinnn244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+estou estudando na Alura 🙇
 
-Here are some ideas to get you started:
+tenho 16 anos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+moro em Mirassol 
+
+estudo na escola Edmur Neves👽
+
+ig: @__cauazinhooo
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwXXf_aiwITBFJMb1DIBRpkpUZM13rHx4fGw&s)
